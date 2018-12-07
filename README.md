@@ -1,4 +1,4 @@
-## Craigslist_Post_Classifier_machine_learning
+## ML/Craigslist_Post_Classifier
 The main goal of this project is to take post titles, and or descriptions and run them through machine learning algorithms 
 to determine if they are 'legit' or 'suspicious' or any criteria that you would like.
 It is based off of my earlier web scraping Craigslist project 
